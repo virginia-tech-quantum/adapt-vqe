@@ -8,7 +8,7 @@ This is the simulation code for performing ADAPT-VQE calculations. Method detail
 ### Installation
 1. Download
     
-        git clone https://github.com/mayhallgroup/adapt-vqe.git
+        git clone https://github.com/holuntang/adapt-vqe.git
         cd adapt-vqe/
 
 2. create virtual environment (optional)
